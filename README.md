@@ -2,4 +2,7 @@ RackspaceInternTest
 ===================
 Raj
 
-Rackspace intern git class
+Michael Dong
+Matthew Rayermann
+Fatimah Zohra
+Matthew Diamond
