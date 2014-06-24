@@ -1,4 +1,4 @@
 RackspaceInternTest
 ===================
 
-Rackspace intern git class
+Michael Dong
